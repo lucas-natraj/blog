@@ -1,8 +1,3 @@
----
-layout: post
-category : index
-title: contents
----
 
 * [2016-06-30-swagger-generation-from-go-web-application](2016-06-30-swagger-generation-from-go-web-application.md)
 * [2016-04-07-gae-with-go](2016-04-07-gae-with-go.md)
