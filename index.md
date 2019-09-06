@@ -1,6 +1,7 @@
 ---
 layout: post
 category : index
+title: contents
 ---
 
 * [2016-06-30-swagger-generation-from-go-web-application](2016-06-30-swagger-generation-from-go-web-application.md)
