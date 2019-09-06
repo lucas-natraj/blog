@@ -1,7 +1,7 @@
 ---
 layout: post
 category : web
-author: Chase Jenkins & Lucas Natraj
+author: Lucas Natraj & Chase Jenkins
 tags: [REST, tutorial]
 title: Creating REST APIs
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 category : databases
-author: Chase Jenkins & Lucas Natraj
+author: Lucas Natraj
 title: Optimistic Concurrency in MongoDB
 ---
 

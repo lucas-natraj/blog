@@ -1,7 +1,7 @@
 ---
 layout: post
 category : ci
-author: Chase Jenkins & Lucas Natraj
+author: Lucas Natraj
 title: Continuous Integration with CircleCI
 ---
 

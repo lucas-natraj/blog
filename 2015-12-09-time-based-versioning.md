@@ -1,7 +1,7 @@
 ---
 layout: post
 category : versioning
-author: Chase Jenkins & Lucas Natraj
+author: Lucas Natraj
 title: Time-Based Versioning
 ---
 

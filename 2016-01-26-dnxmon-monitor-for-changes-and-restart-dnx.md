@@ -1,7 +1,7 @@
 ---
 layout: post
 category : dotnet
-author: Chase Jenkins & Lucas Natraj
+author: Lucas Natraj
 tags: [dnx, code]
 title: dnxmon — Monitor for Changes in a DNX Application
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 category : blog
-author: Chase Jenkins & Lucas Natraj
+author: Lucas Natraj
 tags: [blog, jekyll, github]
 title: Static Site Generation with GitHub & Jekyll
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 category : web
-author: Lucas Natraj, Torbjørn Vik & Chase Jenkins
+author: Lucas Natraj
 tags: [quick, tutorial]
 title: Python Unit Testing with Google App Engine
 ---

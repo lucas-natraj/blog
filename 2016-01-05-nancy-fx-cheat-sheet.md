@@ -1,7 +1,7 @@
 ---
 layout: post
 category : web
-author: Chase Jenkins & Lucas Natraj
+author: Lucas Natraj
 tags: [quick, tutorial, debugging, cheat]
 title: NancyFx Cheat Sheet
 ---

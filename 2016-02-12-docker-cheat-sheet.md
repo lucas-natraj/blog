@@ -1,7 +1,7 @@
 ---
 layout: post
 category : deployment
-author: Chase Jenkins & Lucas Natraj
+author: Lucas Natraj
 tags: [quick, tutorial, docker]
 title: Docker Cheat Sheet
 ---

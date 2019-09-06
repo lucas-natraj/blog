@@ -1,7 +1,7 @@
 ---
 layout: post
 category : security
-author: Chase Jenkins & Lucas Natraj
+author: Lucas Natraj
 tags: [quick, tutorial, ssh]
 title: Working with SSH Keys
 ---
