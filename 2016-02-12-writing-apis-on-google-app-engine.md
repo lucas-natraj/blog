@@ -1,6 +1,6 @@
 ---
 layout: post
-category: google-cloud
+category: googlecloud
 author: Chase Jenkins & Lucas Natraj
 title: Writing APIs on Google App Engine
 ---
