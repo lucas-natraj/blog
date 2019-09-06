@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
+## 'ze blog' by null-reference
 
-You can use the [editor on GitHub](https://github.com/lucas-natraj/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-{% include toc.html html=content %}
+[2015-12-04-star-nix-cheat-sheet](2015-12-04-star-nix-cheat-sheet.md)
