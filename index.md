@@ -10,3 +10,5 @@
 * [2016-01-02-jekyll-git-sync](2016-01-02-jekyll-git-sync.md)
 * [2015-12-08-continuous-integration-with-circleci](2015-12-08-continuous-integration-with-circleci.md)
 * [2015-12-04-star-nix-cheat-sheet](2015-12-04-star-nix-cheat-sheet.md)
+* [2016-06-30-swagger-generation-from-go-web-application](2016-06-30-swagger-generation-from-go-web-application.md)
+* [2016-04-05-python-unit-testing-with-gae](2016-04-05-python-unit-testing-with-gae)
