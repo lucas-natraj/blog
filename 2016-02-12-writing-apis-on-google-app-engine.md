@@ -4,6 +4,8 @@ category: google-cloud
 author: Chase Jenkins & Lucas Natraj
 ---
 
+## Intro
+
 We've encountered a number of ways to write API's on Google App Engine (GAE) using Python, each with their advantages and drawbacks. Here we'll discuss some of them.
 
 ### Basic Setup for all Frameworks
@@ -46,7 +48,7 @@ This is clearly a very simple endpoint, but a few things are happening here wort
 
 One other important detail here — we need to install the flask library, since we have a dependency on it. We need to add two more files to make this possible. The first is a `requirements` file which lists our dependencies:
 
-```
+```python
 Flask==0.10
 ```
 
@@ -172,7 +174,6 @@ class ItemsApi(remote.Service):
 
         return GetAllItemsResponse(items=items)
 ```
-
 
 ## No Framework
 
