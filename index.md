@@ -1,4 +1,4 @@
-# 'ze blog' by null-reference
+# ['ze blog' by null-reference](index.md)
 
 
 * [2015-12-04-star-nix-cheat-sheet](2015-12-04-star-nix-cheat-sheet.md)
