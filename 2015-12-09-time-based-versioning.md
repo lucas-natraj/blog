@@ -13,7 +13,7 @@ or through id-based versioning:
 
     { object_id: C01A42D4, version_id: A744B23E2 }
 
-In either case, the difficulty is often ensuring optimistic concurrency with the underlying data store (more on this in [Optimistic concurrency in Mongo](index.md).
+In either case, the difficulty is often ensuring optimistic concurrency with the underlying data store (more on this in [Optimistic concurrency in Mongo](2015-12-14-optimistic-concurrency-in-mongodb.md).
 
 However, when the data is related, the problem becomes much more difficult. One issue we had with a simple integer-based or id-based approach was the need to "bubble up" version changes through all connections. In a graph, this means every reachable object must be updated in order to ensure that we have a correct "snapshot" of that point in time. Otherwise, it becomes impossible to know the state of connections at a certain point in time.
 
