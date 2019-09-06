@@ -11,7 +11,7 @@ MongoDB does not support traditional "transactions" as we think of them in the R
 
 ![OCC](./assets/2015-12-14-optimistic-concurrency-in-mongo-diagram.png)
 
-An update starts by capturing the current time (the *Begin* phase of OCC). This will be used in subsequent steps. That time is assigned to the new document, and that document is inserted (the *Modify* phase of OCC). Remember that we are using [time-based versioning](./{% post_url 2015-12-09-time-based-versioning %}), so the version ids are, in fact, timestamps.
+An update starts by capturing the current time (the *Begin* phase of OCC). This will be used in subsequent steps. That time is assigned to the new document, and that document is inserted (the *Modify* phase of OCC). Remember that we are using [time-based versioning](2015-12-09-time-based-versioning.md), so the version ids are, in fact, timestamps.
 
 ```c#
 // Capture the time
