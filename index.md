@@ -2,4 +2,4 @@
 
 You can use the [editor on GitHub](https://github.com/lucas-natraj/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-{:toc}
+{% include toc.html html=content %}
